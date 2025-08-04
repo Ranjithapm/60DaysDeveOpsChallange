@@ -1,14 +1,25 @@
 nano script.sh           - Open nano editor to create/edit a shell script
+
 chmod +x script.sh       - Make the script executable
+
 ./script.sh              - Run the shell script
+
 echo "text"              - Print text to the terminal
+
 read variable            - Accept user input and store in a variable
+
 name="value"             - Declare a variable with a value
+
 if [ condition ]         - Start an if condition block
+
 then ... else ... fi     - Execute code blocks based on condition
+
 for i in 1 2 3           - Start a for loop
+
 while [ condition ]      - Start a while loop
+
 sleep 1                  - Pause the script for 1 second
+
 date                     - Display current date and time
 
 
